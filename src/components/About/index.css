@@ -65,7 +65,7 @@
 @media screen and (max-width: 1200px) {
   .who__container {
     display: block;
-    padding: 90px 20px 60px 0;
+    padding: 90px 20px 60px 20px;
   }
 
   .about__container {
@@ -91,6 +91,7 @@
 
   .who__child-content {
     width: 100%;
+
   }
 
   .who__child-asset img {
