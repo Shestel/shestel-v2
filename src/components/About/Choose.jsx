@@ -1,5 +1,6 @@
 import React from "react";
 import reviews from '../../assets/images/reviews.svg'
+import './index.css'
 
 const Choose = () => {
   return (

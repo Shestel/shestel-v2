@@ -45,9 +45,9 @@ const Blog = () => {
           <BlogBanner />
           <section className="blog__home--container">
             {/* <Tab /> */}
-            <div className="blog__home--top">
+            {/* <div className="blog__home--top">
               <h2 className="heading-main-blog">Our Latest Posts.</h2>
-            </div>
+            </div> */}
             <div className="blog__home--bottom">
               {blog?.map((blog) => (
                 <div key={blog.id} className="blog__home--item">

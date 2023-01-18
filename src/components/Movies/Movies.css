@@ -123,7 +123,7 @@
 
   /* MOVIE ROW STYLING */
   .movie__row--parent {
-    margin-bottom: 40px;
+    margin-bottom: 80px;
   }
 
   .movies__row--parent {
@@ -131,7 +131,9 @@
   }
 
   .movie__row--children {
-    width: 320px;
+    width: 250px;
+    /* height: 325px; */
+
   }
 
   .movie__row--children:not(:last-of-type) {

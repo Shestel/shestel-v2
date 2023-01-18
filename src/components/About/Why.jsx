@@ -1,9 +1,9 @@
 import React from "react";
 import "./index.css";
-import phone from "../../assets/images/Iphone1.svg";
-import iphone from "../../assets/images/Iphone.svg";
-import centerImage from "../../assets/images/Ellipse 75.svg";
-import bottomImage from "../../assets/images/Ellipse 70.svg";
+// import phone from "../../assets/images/Iphone1.svg";
+// import iphone from "../../assets/images/Iphone.svg";
+// import centerImage from "../../assets/images/Ellipse 75.svg";
+// import bottomImage from "../../assets/images/Ellipse 70.svg";
 import bannerImage from "../../assets/images/banner-image.svg";
 
 const Why = () => {
